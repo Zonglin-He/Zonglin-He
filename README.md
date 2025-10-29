@@ -40,5 +40,3 @@ My research focuses on **Test-Time Adaptation (TTA)** and **Domain Adaptation (D
 
 ---
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/Zonglin-He/Zonglin-He/blob/output/github-contribution-grid-snake.svg)

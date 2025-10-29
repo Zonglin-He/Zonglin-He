@@ -1,36 +1,28 @@
-### 👋 Hi, I'm He Zonglin
-
-I'm an undergraduate student majoring in **Computer Science** at **Wenzhou-Kean University**.  
-My research focuses on **Test-Time Adaptation (TTA)** and **Domain Adaptation (DA)** for time-series data.  
+# 🧑‍💻 He Zonglin | Java Backend & ML Researcher
+🎓 *Undergraduate in Computer Science @ Wenzhou-Kean University*  
+🔍 *Research: Test-Time Adaptation (TTA) · Domain Adaptation (DA) · Time-Series Modeling*
 
 - 🧩 Interests: Deep learning for sensor/EEG data, time-series modeling, and distributed backend systems.  
 
 ---
 
 ### 📫 Contact
-- ✉️ Email: [hezonglin657@gmail.com](mailto:hezonglin657@gmail.com)  
-- 🔗 LinkedIn: [Zonglin He](https://www.linkedin.com/in/zonglinhe)
-
-[![Email](https://img.shields.io/badge/Email-hezonglin657%40gmail.com-informational)](mailto:hezonglin657@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zonglin%20He-blue?logo=linkedin)](https://www.linkedin.com/in/zonglinhe)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Zonglin-He.Zonglin-He)
-
----
-
-### 📄 Résumé
-
-- 🇬🇧 **[![English Resume](https://img.shields.io/badge/Resume-English-blue)](https://github.com/Zonglin-He/Zonglin-He/blob/main/Resume_Java_EN.pdf)**
-- 🇨🇳 **[![中文简历](https://img.shields.io/badge/简历-中文-red)](https://github.com/Zonglin-He/Zonglin-He/blob/main/简历_Java_CN.pdf)**  
+- 📧 [hezonglin657@gmail.com](mailto:hezonglin657@gmail.com)
+- 💼 [LinkedIn – Zonglin He](https://www.linkedin.com/in/zonglinhe)
+- 🧑‍💻 [GitHub – Zonglin-He](https://github.com/Zonglin-He)
+- 🌏 [Resume (EN)](https://github.com/Zonglin-He/Zonglin-He/blob/main/Resume_Java_EN.pdf) ｜ [简历 (CN)](https://github.com/Zonglin-He/Zonglin-He/blob/main/简历_Java_CN.pdf)
 
 ---
 
 ### 🧰 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Java](https://img.shields.io/badge/Java-SpringBoot-orange?logo=springboot)
-![Vue3](https://img.shields.io/badge/Vue-3-success?logo=vue.js)
-![PyTorch](https://img.shields.io/badge/PyTorch-Framework-red?logo=pytorch)
-![Docker](https://img.shields.io/badge/Docker-Compose-blue?logo=docker)
-![Redis](https://img.shields.io/badge/Redis-Cache-red?logo=redis)
+
+| Category | Tools |
+|-----------|-------|
+| Backend | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) |
+| Database | ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) |
+| DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) |
+| Frontend | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D) |
+| ML & Data | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
 
 ---
 

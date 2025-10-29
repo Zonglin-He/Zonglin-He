@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="assets/zen/header.jpg" alt="zen header" width="100%" />
+</p>
+
 <div align="center">
 
 <h1>🧑‍💻 He Zonglin | Java Backend Developer & ML Researcher</h1>
 
 <p>
-🎓 <em>Undergraduate in Computer Science @ Wenzhou-Kean University</em><br/>
-🔍 <em>Research: Test-Time Adaptation (TTA) · Domain Adaptation (DA) · Time-Series Modeling</em>
+  🎓 <em>Undergraduate in Computer Science @ Wenzhou-Kean University</em><br/>
+  🔍 <em>Research: Test-Time Adaptation (TTA) · Domain Adaptation (DA) · Time-Series Modeling</em>
 </p>
 
 <p>
@@ -21,7 +25,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="assets/zen/divider.png" alt="divider" width="220" />
+</p>
 
 <div align="center">
 
@@ -34,7 +40,9 @@
 - 🧑‍💻 [GitHub – Zonglin-He](https://github.com/Zonglin-He)  
 - 🌏 [Resume (EN)](https://github.com/Zonglin-He/Zonglin-He/blob/main/Resume_Java_EN.pdf) ｜ [简历 (CN)](https://github.com/Zonglin-He/Zonglin-He/blob/main/简历_Java_CN.pdf)
 
----
+<p align="center">
+  <img src="assets/zen/divider.png" alt="divider" width="220" />
+</p>
 
 <div align="center">
 
@@ -54,7 +62,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="assets/zen/divider.png" alt="divider" width="220" />
+</p>
 
 <div align="center">
 
@@ -66,7 +76,9 @@
 - **[StudySphere](https://github.com/Zonglin-He/StudySphere)** — Full-stack learning forum for course discussions using Spring Boot (JWT, RabbitMQ, Redis, MinIO) and Vue3/Element Plus frontend.  
 - **[ServerOperationsMonitoringSystem](https://github.com/Zonglin-He/ServerOperationsMonitoringSystem)** — Full-stack server O&M monitoring platform built with Spring Boot, Vue3, InfluxDB, and JWT-secured agents.
 
----
+<p align="center">
+  <img src="assets/zen/divider.png" alt="divider" width="220" />
+</p>
 
 <div align="center">
 
@@ -83,7 +95,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="assets/zen/divider.png" alt="divider" width="220" />
+</p>
 
 <div align="center">
 
@@ -95,7 +109,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="assets/zen/divider.png" alt="divider" width="220" />
+</p>
 
 <div align="center">
 
@@ -111,3 +127,7 @@
 </blockquote>
 
 </div>
+
+<p align="center">
+  <img src="assets/zen/footer.jpg" alt="zen footer" width="100%" />
+</p>

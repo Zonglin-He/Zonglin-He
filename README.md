@@ -2,6 +2,10 @@
 🎓 *Undergraduate in Computer Science @ Wenzhou-Kean University*  
 🔍 *Research: Test-Time Adaptation (TTA) · Domain Adaptation (DA) · Time-Series Modeling*
 
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Zonglin-He.Zonglin-He)](https://github.com/Zonglin-He)
+[![GitHub followers](https://img.shields.io/github/followers/Zonglin-He?label=Follow&style=social)](https://github.com/Zonglin-He)
+[![Stars](https://img.shields.io/github/stars/Zonglin-He?style=social)](https://github.com/Zonglin-He?tab=repositories)
+
 ---
 
 ### 📫 Contact
@@ -36,4 +40,18 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zonglin-He&layout=compact&theme=tokyonight)
 
 ---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zonglin-He&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zonglin-He&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zonglin-He&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zonglin-He&theme=tokyonight&margin-w=15&no-frame=true" />
+</p>
 

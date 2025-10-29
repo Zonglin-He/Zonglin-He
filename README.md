@@ -1,4 +1,4 @@
-### 👋 Hi, I'm He Zonglin (何宗霖)
+### 👋 Hi, I'm He Zonglin
 
 I'm an undergraduate student majoring in **Computer Science** at **Wenzhou-Kean University**.  
 My research focuses on **Test-Time Adaptation (TTA)** and **Domain Adaptation (DA)** for time-series data.  
@@ -14,6 +14,13 @@ My research focuses on **Test-Time Adaptation (TTA)** and **Domain Adaptation (D
 [![Email](https://img.shields.io/badge/Email-hezonglin657%40gmail.com-informational)](mailto:hezonglin657@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zonglin%20He-blue?logo=linkedin)](https://www.linkedin.com/in/zonglinhe)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Zonglin-He.Zonglin-He)
+
+---
+
+### 📄 Résumé
+
+- 🇬🇧 **[![English Resume](https://img.shields.io/badge/Resume-English-blue)](https://github.com/Zonglin-He/Zonglin-He/blob/main/Resume_Java_EN.pdf)**
+- 🇨🇳 **[![中文简历](https://img.shields.io/badge/简历-中文-red)](https://github.com/Zonglin-He/Zonglin-He/blob/main/简历_Java_CN.pdf)**  
 
 ---
 

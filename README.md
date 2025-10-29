@@ -51,5 +51,9 @@
 
 ---
 
+---
+
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/Zonglin-He/Zonglin-He/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Zonglin-He/Zonglin-He/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>

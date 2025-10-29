@@ -58,26 +58,19 @@
 
 ---
 
----
+<div align="center">
 
-<h2 align="center">💫 Geek Romance 💫</h2>
+<blockquote>
+如果我们约会，不去逛街，不去看电影，<br/>
+而是找一家安静的咖啡厅。<br/>
+我打开笔记本，轻声和你讲讲<br/>
+<b>Java、Python、Go、Rust、C/C++、数据库、MySQL、前后端分离、Redis、Linux、微服务、Spring、SpringMVC、SpringBoot、MyBatis、大模型、高并发、Docker、JUC、JVM、机器学习、深度学习</b>。<br/>
+然后再教你 <b>Node.js</b> 与 <b>Vue3</b>，<br/>
+和你一起聊 <b>计算机网络、操作系统、计算机组成原理、数据结构与算法</b>。<br/>
+最后，我们并肩刷两道 <b>LeetCode</b>。<br/><br/>
+你会觉得我很无趣，还是，会觉得很浪漫呢。
+</blockquote>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C3FF&center=true&vCenter=true&width=550&lines=If+we+go+on+a+date...;not+for+movies,+not+for+shopping;but+to+a+quiet+café+with+our+laptops;I+teach+you+Java,+Python,+Go,+Rust,+C/C++;MySQL,+Redis,+Linux,+SpringBoot,+Docker,+JVM;and+we+solve+two+LeetCode+problems+together.;Would+you+find+me+boring,+or+romantic%3F" alt="Typing animation"/>
-</p>
 
----
+</div>
 
-<p align="center">
-  ☕ 如果我们约会，不去逛街、不去看电影，而是找一个安静的咖啡厅，<br/>
-  我拿出笔记本给你讲讲 <b>Java、Python、Go、Rust、C/C++、数据库、MySQL、前后端分离、Redis、Linux、微服务、Spring、SpringMVC、SpringBoot、MyBatis、大模型、高并发、Docker、JUC、JVM、机器学习、深度学习</b>；<br/>
-  然后教你 <b>Node.js</b>、<b>Vue3</b>，再和你探讨 <b>计算机网络、操作系统、组成原理、数据结构与算法</b>，<br/>
-  最后我们一起刷两道 <b>LeetCode</b>。<br/><br/>
-  💻 你会觉得我很无趣，还是会觉得很浪漫？ ❤️
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C3FF,100:FF0080&height=100&section=footer&text=Always%20Exploring%20Deeper%20Connections%20Between%20ML%20and%20Systems.&fontSize=14&fontColor=ffffff&animation=twinkling"/>
-</p>

@@ -1,4 +1,4 @@
-# 🧑‍💻 He Zonglin Developer| Java Backend & ML Researcher
+# 🧑‍💻 He Zonglin | Java Backend Developer & ML Researcher
 🎓 *Undergraduate in Computer Science @ Wenzhou-Kean University*  
 🔍 *Research: Test-Time Adaptation (TTA) · Domain Adaptation (DA) · Time-Series Modeling*
 

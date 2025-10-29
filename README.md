@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="assets/zen/header.jpg" alt="zen header" width="100%" />
-</p>
-
 <div align="center">
 
 <h1>🧑‍💻 He Zonglin | Java Backend Developer & ML Researcher</h1>
 
 <p>
-  🎓 <em>Undergraduate in Computer Science @ Wenzhou-Kean University</em><br/>
-  🔍 <em>Research: Test-Time Adaptation (TTA) · Domain Adaptation (DA) · Time-Series Modeling</em>
+🎓 <em>Undergraduate in Computer Science @ Wenzhou-Kean University</em><br/>
+🔍 <em>Research: Test-Time Adaptation (TTA) · Domain Adaptation (DA) · Time-Series Modeling</em>
 </p>
 
 <p>
@@ -25,9 +21,7 @@
 
 </div>
 
-<p align="center">
-  <img src="assets/zen/divider.png" alt="divider" width="220" />
-</p>
+---
 
 <div align="center">
 
@@ -40,9 +34,7 @@
 - 🧑‍💻 [GitHub – Zonglin-He](https://github.com/Zonglin-He)  
 - 🌏 [Resume (EN)](https://github.com/Zonglin-He/Zonglin-He/blob/main/Resume_Java_EN.pdf) ｜ [简历 (CN)](https://github.com/Zonglin-He/Zonglin-He/blob/main/简历_Java_CN.pdf)
 
-<p align="center">
-  <img src="assets/zen/divider.png" alt="divider" width="220" />
-</p>
+---
 
 <div align="center">
 
@@ -62,9 +54,7 @@
 
 </div>
 
-<p align="center">
-  <img src="assets/zen/divider.png" alt="divider" width="220" />
-</p>
+---
 
 <div align="center">
 
@@ -76,9 +66,7 @@
 - **[StudySphere](https://github.com/Zonglin-He/StudySphere)** — Full-stack learning forum for course discussions using Spring Boot (JWT, RabbitMQ, Redis, MinIO) and Vue3/Element Plus frontend.  
 - **[ServerOperationsMonitoringSystem](https://github.com/Zonglin-He/ServerOperationsMonitoringSystem)** — Full-stack server O&M monitoring platform built with Spring Boot, Vue3, InfluxDB, and JWT-secured agents.
 
-<p align="center">
-  <img src="assets/zen/divider.png" alt="divider" width="220" />
-</p>
+---
 
 <div align="center">
 
@@ -95,9 +83,7 @@
 
 </div>
 
-<p align="center">
-  <img src="assets/zen/divider.png" alt="divider" width="220" />
-</p>
+---
 
 <div align="center">
 
@@ -108,26 +94,3 @@
 </p>
 
 </div>
-
-<p align="center">
-  <img src="assets/zen/divider.png" alt="divider" width="220" />
-</p>
-
-<div align="center">
-
-<blockquote>
-如果我们约会，不去逛街，不去看电影，<br/>
-而是找一家安静的咖啡厅。<br/>
-我打开笔记本，轻声和你讲讲<br/>
-<b>Java、Python、Go、Rust、C/C++、数据库、MySQL、前后端分离、Redis、Linux、微服务、Spring、SpringMVC、SpringBoot、MyBatis、大模型、高并发、Docker、JUC、JVM、机器学习、深度学习</b>。<br/>
-然后再教你 <b>Node.js</b> 与 <b>Vue3</b>，<br/>
-和你一起聊 <b>计算机网络、操作系统、计算机组成原理、数据结构与算法</b>。<br/>
-最后，我们并肩刷两道 <b>LeetCode</b>。<br/><br/>
-你会觉得我很无趣，还是，会觉得很浪漫呢。
-</blockquote>
-
-</div>
-
-<p align="center">
-  <img src="assets/zen/footer.jpg" alt="zen footer" width="100%" />
-</p>

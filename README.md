@@ -2,8 +2,6 @@
 🎓 *Undergraduate in Computer Science @ Wenzhou-Kean University*  
 🔍 *Research: Test-Time Adaptation (TTA) · Domain Adaptation (DA) · Time-Series Modeling*
 
-- 🧩 Interests: Deep learning for sensor/EEG data, time-series modeling, and distributed backend systems.  
-
 ---
 
 ### 📫 Contact

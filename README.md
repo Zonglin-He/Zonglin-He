@@ -1,22 +1,48 @@
-# 🧑‍💻 He Zonglin | Java Backend Developer & ML Researcher
-🎓 *Undergraduate in Computer Science @ Wenzhou-Kean University*  
-🔍 *Research: Test-Time Adaptation (TTA) · Domain Adaptation (DA) · Time-Series Modeling*
+<div align="center">
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Zonglin-He.Zonglin-He)](https://github.com/Zonglin-He)
-[![GitHub followers](https://img.shields.io/github/followers/Zonglin-He?label=Follow&style=social)](https://github.com/Zonglin-He)
-[![Stars](https://img.shields.io/github/stars/Zonglin-He?style=social)](https://github.com/Zonglin-He?tab=repositories)
+<h1>🧑‍💻 He Zonglin | Java Backend Developer & ML Researcher</h1>
+
+<p>
+🎓 <em>Undergraduate in Computer Science @ Wenzhou-Kean University</em><br/>
+🔍 <em>Research: Test-Time Adaptation (TTA) · Domain Adaptation (DA) · Time-Series Modeling</em>
+</p>
+
+<p>
+  <a href="https://github.com/Zonglin-He">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Zonglin-He.Zonglin-He" alt="Visitors"/>
+  </a>
+  <a href="https://github.com/Zonglin-He?tab=followers">
+    <img src="https://img.shields.io/github/followers/Zonglin-He?label=Follow&style=social" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/Zonglin-He?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Zonglin-He?style=social" alt="Stars"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
+<div align="center">
+
 ### 📫 Contact
-- 📧 [hezonglin657@gmail.com](mailto:hezonglin657@gmail.com)
-- 💼 [LinkedIn – Zonglin He](https://www.linkedin.com/in/zonglinhe)
-- 🧑‍💻 [GitHub – Zonglin-He](https://github.com/Zonglin-He)
+
+</div>
+
+- 📧 [hezonglin657@gmail.com](mailto:hezonglin657@gmail.com)  
+- 💼 [LinkedIn – Zonglin He](https://www.linkedin.com/in/zonglinhe)  
+- 🧑‍💻 [GitHub – Zonglin-He](https://github.com/Zonglin-He)  
 - 🌏 [Resume (EN)](https://github.com/Zonglin-He/Zonglin-He/blob/main/Resume_Java_EN.pdf) ｜ [简历 (CN)](https://github.com/Zonglin-He/Zonglin-He/blob/main/简历_Java_CN.pdf)
 
 ---
 
+<div align="center">
+
 ### 🧰 Languages & Tools
+
+</div>
+
+<div align="center">
 
 | Category | Tools |
 |-----------|-------|
@@ -26,35 +52,48 @@
 | Frontend | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D) |
 | ML & Data | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
 
+</div>
+
 ---
 
+<div align="center">
+
 ### 📚 Featured Projects
+
+</div>
+
 - **[EEG-Emotion-MLP](https://github.com/Zonglin-He/EEG-Emotion-MLP)** — Predicting arousal and valence from single-channel EEG signals using a multilayer perceptron (MLP).  
 - **[StudySphere](https://github.com/Zonglin-He/StudySphere)** — Full-stack learning forum for course discussions using Spring Boot (JWT, RabbitMQ, Redis, MinIO) and Vue3/Element Plus frontend.  
 - **[ServerOperationsMonitoringSystem](https://github.com/Zonglin-He/ServerOperationsMonitoringSystem)** — Full-stack server O&M monitoring platform built with Spring Boot, Vue3, InfluxDB, and JWT-secured agents.
 
 ---
 
+<div align="center">
+
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zonglin-He&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zonglin-He&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zonglin-He&show_icons=true&theme=transparent&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zonglin-He&layout=compact&theme=transparent&hide_border=true" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zonglin-He&theme=tokyonight&hide_border=true" height="150"/>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zonglin-He&theme=transparent&hide_border=true" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zonglin-He&theme=tokyonight&margin-w=15&no-frame=true" />
-</p>
+</div>
 
 ---
 
+<div align="center">
+
 ### 🐍 Contribution Snake
-<p align="center">
+
+<p>
   <img src="https://github.com/Zonglin-He/Zonglin-He/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+</div>
 
 ---
 
@@ -71,6 +110,4 @@
 你会觉得我很无趣，还是，会觉得很浪漫呢。
 </blockquote>
 
-
 </div>
-

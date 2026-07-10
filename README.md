@@ -1,8 +1,6 @@
 # Zonglin He
 
-CS undergraduate working on backend systems and machine learning research.
-
-I build practical systems, run careful experiments, and try to keep research code clean enough to reproduce.
+CS undergraduate working on practical systems and machine learning research.
 
 ## Current Focus
 
